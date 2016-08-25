@@ -1,0 +1,33 @@
+[25-Aug-2016 23:41:58 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in C:\wamp\www\php-sample-applications\lib\ussd\MoUssdReceiver.php:45
+Stack trace:
+#0 C:\wamp\www\php-sample-applications\samples\ussd\SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in C:\wamp\www\php-sample-applications\lib\ussd\MoUssdReceiver.php on line 45
+[25-Aug-2016 23:42:15 Europe/Paris] PHP Notice:  Undefined index: menu-Opt in C:\wamp\www\php-sample-applications\samples\ussd\SampleUssdApp.php on line 74
+[25-Aug-2016 23:42:15 Europe/Paris] PHP Stack trace:
+[25-Aug-2016 23:42:15 Europe/Paris] PHP   1. {main}() C:\wamp\www\php-sample-applications\samples\ussd\SampleUssdApp.php:0
+[25-Aug-2016 23:58:08 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in C:\wamp\www\zinga\lib\ussd\MoUssdReceiver.php:45
+Stack trace:
+#0 C:\wamp\www\zinga\samples\ussd\SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in C:\wamp\www\zinga\lib\ussd\MoUssdReceiver.php on line 45
+[26-Aug-2016 00:35:40 Europe/Paris] PHP Notice:  Undefined index: menu-Opt in C:\wamp\www\zinga\samples\ussd\SampleUssdApp.php on line 73
+[26-Aug-2016 00:35:40 Europe/Paris] PHP Stack trace:
+[26-Aug-2016 00:35:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\zinga\samples\ussd\SampleUssdApp.php:0
+[26-Aug-2016 00:35:40 Europe/Paris] PHP Notice:  Undefined index: menu-Opt in C:\wamp\www\zinga\samples\ussd\SampleUssdApp.php on line 84
+[26-Aug-2016 00:35:40 Europe/Paris] PHP Stack trace:
+[26-Aug-2016 00:35:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\zinga\samples\ussd\SampleUssdApp.php:0
+[26-Aug-2016 00:35:40 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\zinga\samples\ussd\SampleUssdApp.php on line 183
+[26-Aug-2016 00:35:40 Europe/Paris] PHP Stack trace:
+[26-Aug-2016 00:35:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\zinga\samples\ussd\SampleUssdApp.php:0
+[26-Aug-2016 00:35:40 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\zinga\samples\ussd\SampleUssdApp.php on line 184
+[26-Aug-2016 00:35:40 Europe/Paris] PHP Stack trace:
+[26-Aug-2016 00:35:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\zinga\samples\ussd\SampleUssdApp.php:0
+[26-Aug-2016 00:35:45 Europe/Paris] PHP Notice:  Undefined index: menu-Opt in C:\wamp\www\zinga\samples\ussd\SampleUssdApp.php on line 73
+[26-Aug-2016 00:35:45 Europe/Paris] PHP Stack trace:
+[26-Aug-2016 00:35:45 Europe/Paris] PHP   1. {main}() C:\wamp\www\zinga\samples\ussd\SampleUssdApp.php:0
+[25-Aug-2016 16:45:29 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in C:\wamp\www\zinga\lib\ussd\MoUssdReceiver.php:45
+Stack trace:
+#0 C:\wamp\www\zinga\samples\ussd\SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in C:\wamp\www\zinga\lib\ussd\MoUssdReceiver.php on line 45

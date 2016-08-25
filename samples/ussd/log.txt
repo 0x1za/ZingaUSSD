@@ -1,0 +1,127 @@
+[ content=#678*, address=tel:94771122336, requestId=1472161335397, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122336, requestId=1472161579444, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main
+[ content=1, address=tel:94771122336, requestId=1472161591876, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1472162143031, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := company
+[ content=*234#, address=tel:94771122336, requestId=1472162171482, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := company
+[ content=1, address=tel:94771122336, requestId=1472162180314, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := company
+[ content=#678*, address=tel:94771122336, requestId=1472162304613, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := company
+[ content=#678*, address=tel:94771122336, requestId=1472162333140, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := company
+[ content=#678*, address=tel:94771122336, requestId=1472162356849, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := company
+[ content=#678*, address=tel:94771122336, requestId=1472162411404, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := company
+[ content=1, address=tel:94771122336, requestId=1472163744599, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := company
+[ content=1, address=tel:94771122336, requestId=1472163763535, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := company
+Selected response message := Mr.Dinesh Saparamadu.
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1472163775272, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := company-hist
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1472163781228, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := company
+Selected response message := 1.Send Money
+                    2.Recieve Money
+                    3.Check Balance
+                    000.Exit
+[ content=1, address=tel:94771122336, requestId=1472163790190, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1472163914993, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := company
+[ content=1, address=tel:94771122336, requestId=1472163922980, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := company
+Selected response message := Mr.Dinesh Saparamadu.
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1472163935103, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := company-hist
+Selected response message := Available Amount
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1472163942904, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := company
+Selected response message := 1.Send Money
+                    2.Recieve Money
+                    3.Check Balance
+                    000.Exit
+[ content=1, address=tel:94771122336, requestId=1472164101808, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Available Amount
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=1, address=tel:94771122336, requestId=1472164128621, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := company
+Selected response message := Mr.Dinesh Saparamadu.
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1472164140210, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := company-hist
+Selected response message := Available Amount K 10
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1472164355115, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := company
+Selected response message := 1.Send Money
+                    2.Recieve Money
+                    3.Check Balance
+                    000.Exit
+[ content=1, address=tel:94771122336, requestId=1472164362252, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Available Amount K 10
+                    1.Send to Number
+                    2.Send to Bank Acount
+                    999.Back
+[ content=999, address=tel:94771122336, requestId=1472164502623, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := company
+Selected response message := 1.Send Money
+                    2.Recieve Money
+                    3.Check Balance
+                    000.Exit
+[ content=000, address=tel:94771122336, requestId=1472164527744, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+[ content=*234#, address=tel:94771122336, requestId=1472164540049, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := 
+Selected response message := 
+[ content=*234#, address=tel:94771122336, requestId=1472164545742, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=#678*, address=tel:94771122336, requestId=1472136337911, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main
+[ content=1, address=tel:94771122336, requestId=1472136350997, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Available Amount K 10
+                    1.Send to Number
+                    2.Send to Bank Account
+                    999.Back
